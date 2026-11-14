@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 | Project | What it shows |
 | ------- | ------------- |
-| 🧪 **[QA Portfolio](https://github.com/tegargr28/orangehrm-api-testing)** | Test plan, test cases, bug reports, API testing (Postman) and automation on the OrangeHRM demo |
+| 🧪 **[OrangeHRM](https://github.com/tegargr28/orangehrm-api-testing)** | Test plan, test cases, bug reports, API testing (Postman) and automation on the OrangeHRM demo |
