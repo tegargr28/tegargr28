@@ -14,4 +14,23 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I am developing my skills in Quality Assurance through self-directed learning and hands-on practice. I have gained knowledge of manual testing, organizing test cases using Google Sheets, and documenting bugs with clear reproduction steps, expected and actual results, and supporting evidence such as screenshots or videos. I am continuously improving my understanding of software testing and eager to contribute to a QA team by ensuring software quality through careful, structured, and detail-oriented testing.
+### About Me👨‍💻
+
+ I am developing my skills in Quality Assurance through self-directed learning and hands-on practice. I have gained knowledge of manual testing, organizing test cases using Google Sheets, and documenting bugs with clear reproduction steps, expected and actual results, and supporting evidence such as screenshots or videos. I am continuously improving my understanding of software testing and eager to contribute to a QA team by ensuring software quality through careful, structured, and detail-oriented testing.
+
+### Tech & Tools I'm Learning
+
+- Manual Testing (Test Case, Test Plan, Bug Report)
+- API Testing Using Postman
+- Automation Testing (Selenium, Appium, Cypress)
+- SQL (Basic Query & Data Validation)
+- Git & GitHub
+
+### Skills
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" /> 
+<img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+
