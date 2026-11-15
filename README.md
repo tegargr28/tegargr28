@@ -49,6 +49,9 @@ Here are some ideas to get you started:
 - Communication
 - Time management
 
+### Projects
+
 | Project | What it shows |
-| ------- | ------------- |
-| 🧪 **[OrangeHRM](https://github.com/tegargr28/orangehrm-api-testing)** | Test plan, test cases, bug reports, API testing (Postman) and automation on the OrangeHRM demo |
+|---|---|
+| [🧪 OrangeHRM – Manual & API Testing](https://github.com/tegargr28/orangehrm-api-testing) | Test plan, test cases, bug reports, and API testing (Postman) on the OrangeHRM demo. |
+| [🤖 OrangeHRM – Cypress Automation](https://github.com/tegargr28/orange-api-testing-automation) | 76 automated E2E and API tests with Page Object Model, HTML reports, and GitHub Actions CI on the OrangeHRM demo. |
