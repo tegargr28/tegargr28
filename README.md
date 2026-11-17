@@ -55,4 +55,4 @@ Here are some ideas to get you started:
 |---|---|
 | [🧪 OrangeHRM – Manual & API Testing](https://github.com/tegargr28/orangehrm-api-testing) | Test plan, test cases, bug reports, and API testing (Postman) on the OrangeHRM demo. |
 | [🤖 OrangeHRM – Cypress Automation](https://github.com/tegargr28/orange-api-testing-automation) | 76 automated E2E and API tests with Page Object Model, HTML reports, and GitHub Actions CI on the OrangeHRM demo. |
-| 🧪 SauceDemo – Manual Testing | 66 test cases across 6 modules (Login, Products, Cart, Checkout, Menu, Special Users) and 4 documented bugs on the SauceDemo app. |
+| 🧪 SauceDemo – Manual Testing |(https://github.com/tegargr28/saucedemo-manual-testing) | 66 test cases across 6 modules (Login, Products, Cart, Checkout, Menu, Special Users) and 4 documented bugs on the SauceDemo app. |
